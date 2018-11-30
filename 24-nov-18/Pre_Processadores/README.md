@@ -21,4 +21,4 @@ https://slides.com/igorsousa/pre-processadores
 http://matheusazzi.com/pre-processadores-css
 ```
 
-Conteúdo fornecido por @igorsousafront
+Conteúdo fornecido por [@igorsousafront](https://github.com/igorsousafront)
