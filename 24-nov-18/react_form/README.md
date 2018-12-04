@@ -1,4 +1,4 @@
-## [#1 Meetup Frontend CE - Palestra sobre Pré-processadores CSS](https://www.meetup.com/pt-BR/frontend-ce/)
+## [#1 Meetup Frontend CE - Palestra sobre React Forms](https://www.meetup.com/pt-BR/frontend-ce/)
 
 
 ![frontend-ce](https://secure.meetupstatic.com/photos/event/3/d/3/6/600_476355670.jpeg)
