@@ -9,3 +9,4 @@ https://github.com/cicerohen/get-started-with-webpack
 http://tiny.cc/brad-rematch-frontendcd
 
 ## Entendendo React Native Animations - Ian Ramos
+http://slides.com/ianramosc/react-native-animations/
