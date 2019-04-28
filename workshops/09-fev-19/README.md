@@ -6,6 +6,6 @@
 - **Onde?** FBideias (Fortaleza)
 - **Quando?** 09 de Fevereiro, a partir das 08h
 
-## Oficinas
+## Oficina
 - **Francisco Wallison**, *Vue + Firebase*
 - **Cicero Viana**, *Iniciando con React*
